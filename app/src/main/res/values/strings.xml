@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ButLee</string>
+    <string name="password_generator">  PASSWORD \n GENERATOR</string>
+    <string name="pass_length">Password length</string>
+    <string name="inc_upper">Include upper case letter</string>
+    <string name="inc_lower">Include lower case letter</string>
+    <string name="inc_num">Include number</string>
+    <string name="inc_spec">Include special symbol</string>
+    <string name="btn">GENERATOR PASSWORD</string>
+</resources>
